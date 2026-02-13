@@ -1,6 +1,6 @@
 ## What is this?
 
-The [marginaleffects.com](marginaleffects.com) website hosts the code and documentation for the open source marginaleffects package for R and Python, and a complete free version [of this book:](https://routledge.com/9781032908724)
+The [marginaleffects.com](https://marginaleffects.com) website hosts the code and documentation for the open source marginaleffects package for R and Python, and a complete free version [of this book:](https://routledge.com/9781032908724)
 
 > Model to Meaning: How to interpret statistical models in R and Python. Arel-Bundock, Vincent. 2026. CRC Press.
 Model to Meaning How to Interpret Statistical Models with R and Python. This software empowers R and Python users to translate the outputs of statistical and machine learning models into accurate insights that are accessible to a wide audience.
